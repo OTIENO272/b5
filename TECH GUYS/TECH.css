@@ -1,0 +1,37 @@
+* {
+     background-color: #eae7ee;
+     color: blue;
+}
+
+.him {
+     list-style-type: style none;
+     display: block;
+     color: #0202ac;
+     text-align-last: center;
+     font: 400;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: x-large;
+     max-width: 100%;
+     padding: 10px;
+     font-weight: 100;
+     -ms-flex-item-align: stretch;
+}
+
+.image {
+
+     max-width: 100%;
+     size: 100%;
+     position: fixed;
+     align-self: center;
+     fill: url();
+}
+
+.politics {
+     background-color: rgb(22, 10, 10);
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: large;
+     font-weight: 200;
+     color: rgb(250, 148, 23);
+     position: relative;
+     display: flexbox;
+}
